@@ -1,0 +1,43 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10121</md:content-id>
+    <md:title>CNXML Tutorial</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>90fc5125-5ca6-4aec-9ca6-01f719d802ef</md:uuid>
+<md:slug>cnxml-tutorial</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>XML</md:title>
+      <col:content>
+        <col:module document="m9002"/>
+        <col:module document="m10159"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>CNXML</md:title>
+      <col:content>
+        <col:module document="m9000"/>
+        <col:module document="m9006"/>
+        <col:module document="m9007"/>
+        <col:module document="m11215"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Other Markup Languages</md:title>
+      <col:content>
+        <col:module document="m9008"/>
+        <col:module document="m10138"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendix</md:title>
+      <col:content>
+        <col:module document="m10275"/>
+        <col:module document="m10278"/>
+        <col:module document="m10281"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
